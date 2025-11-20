@@ -1,5 +1,5 @@
 
-Exp 6 Simulation of Optical Communication System
+Exp 6 Simulation of Optical Communication System 
 ## Introduction to OptiPerformer 
 ## Objective
 Download and install OptiPerformer software on your computer and run a sample file.
